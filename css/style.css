@@ -1,0 +1,45 @@
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.900);
+}
+
+.lol {
+    background-color: rgba(0, 0, 0, 0.800);
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.lolzin {
+    color: white;
+    font-family: fantasy;
+}
+
+img {
+    margin-bottom: 20px;
+}
+
+.texto1 {
+    color: white;
+}
+
+.champions {
+    font-family: fantasy;
+    background-color: white;
+}
+
+.text_suport {
+    font: 20px, Arial;
+}
+
+.bg-footer {
+    background-color: rgba(0, 0, 0, 0.900);
+    color: white;
+    font: 20px, Arial;
+}
+
+.menu_white {
+    color: white;
+}
